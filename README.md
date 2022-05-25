@@ -1,1 +1,1 @@
-# 2-P.D
+# 2_PD_Mašīnmācīšanās algoritmu lietojums
